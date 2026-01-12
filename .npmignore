@@ -1,0 +1,8 @@
+src
+tsconfig.json
+.git
+.gitignore
+.DS_Store
+node_modules
+*.log
+package-lock.json
