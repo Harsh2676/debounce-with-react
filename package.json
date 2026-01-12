@@ -1,6 +1,6 @@
 {
   "name": "debounce-with-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight React hook for debouncing values.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
