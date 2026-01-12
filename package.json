@@ -1,6 +1,6 @@
 {
   "name": "debounce-with-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight React hook for debouncing values.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -19,6 +19,10 @@
     "debounce",
     "typescript"
   ],
+  "repository": {
+    "name": "Harsh2676",
+    "url": "https://github.com/Harsh2676/debounce-with-react"
+  },
   "author": "",
   "license": "MIT",
   "peerDependencies": {
